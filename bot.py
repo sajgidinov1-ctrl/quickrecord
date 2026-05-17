@@ -27,7 +27,7 @@ BOT_TOKEN = "8674542784:AAE7VJ6DqkIMKf9Flsx9TL-qJ4vmZMIf6no"
 ADMIN_CHAT_ID = 8235415794
 
 # ⚠️ Замени YOUR_USERNAME на свой username в PythonAnywhere
-WEBHOOK_HOST = "https://YOUR_USERNAME.pythonanywhere.com"
+WEBHOOK_HOST = "https://dinis123.pythonanywhere.com"
 WEBHOOK_PATH = f"/webhook/{BOT_TOKEN}"
 WEBHOOK_URL = f"{WEBHOOK_HOST}{WEBHOOK_PATH}"
 
